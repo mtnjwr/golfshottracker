@@ -1,3 +1,5 @@
+package com.mtnjw.golfshottracker
+
 import android.appwidget.AppWidgetManager
 import android.appwidget.AppWidgetProvider
 import android.content.Context
